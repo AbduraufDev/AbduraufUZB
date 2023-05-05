@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduraufuzb" alt="abduraufuzb" /></a> </p>
 
-- 🔭 I’m currently working on **Mohirdev, Optikom, DigiStall, MyGO**
+- 🔭 I’m currently working on **MyGO**
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
